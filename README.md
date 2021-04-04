@@ -17,6 +17,3 @@ Action already setup In this template, you just need click `use this template` b
 ![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/4-productive-time.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Densuke-fitness&theme=onedark)](https://github.com/Densuke-fitness/github-profile-trophy)
-
