@@ -10,7 +10,7 @@ Action already setup In this template, you just need click `use this template` b
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Densuke-fitness&theme=onedark)](https://github.com/Densuke-fitness/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Densuke-fitness)](https://github.com/Densuke-fitness/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
