@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://densuke.work/Articles.html](https://densuke.work/Articles.html)
 
-- 📫 How to reach me **@FitnessDensuke(twitter)**
+- 📫 How to reach me **@[FitnessDensuke](https://twitter.com/FitnessDensuke)(twitter)**
 
 - 📄 Know about my experiences [https://densuke.work](https://densuke.work)
 
