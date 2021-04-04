@@ -1,19 +1,24 @@
-# github-profile-summary-cards-example
+<h1 align="left">Hi there👋 I'm Densuke, a server-side engineer💪</h3>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<h3 align="left">About me</h3>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+- 🔭 I’m a senior in college at **Yokohama City University** (major in business finance)
 
-```To create your profile README you need to name the repo as your username```
+- 🌱 I’m currently learning **Golang, GitHubActions .etc**
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+- 📝 I regularly write articles on [https://densuke.work/Articles.html](https://densuke.work/Articles.html)
+
+- 📫 How to reach me **@FitnessDensuke(twitter)**
+
+- 📄 Know about my experiences [https://densuke.work](https://densuke.work)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Densuke-fitness)](https://github.com/Densuke-fitness/github-readme-stats)
 
-![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+### Statistics:
+
+[![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Densuke-fitness/Densuke-fitness/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
