@@ -2,7 +2,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m a senior in college at **Yokohama City University** (major in business finance)
+- 🔭 I’m a senior in college at **Yokohama City University** (RakSul 22 new graduates)
 
 - 🌱 I’m currently learning **Golang, GitHubActions .etc**
 
