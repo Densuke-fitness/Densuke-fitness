@@ -4,7 +4,7 @@
 
 - 🔭 I’m a senior in college at **Yokohama City University** (RakSul 22 new graduates)
 
-- 🌱 I’m currently learning **Golang, GitHubActions .etc**
+- 🌱 I’m currently learning **Golang(gin), Ruby(rails) .etc**
 
 - 📝 I regularly write articles on [https://densuke.work/Articles.html](https://densuke.work/Articles.html)
 
