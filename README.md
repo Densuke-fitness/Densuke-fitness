@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang(gin), Ruby(rails) .etc**
 
-- 📝 I regularly write articles on [https://densuke.work/Articles.html](https://densuke.work/Articles.html)
+- 📝 I regularly write articles on [https://densuke-fitness.github.io/Articles.html](https://densuke-fitness.github.io/Articles.html)
 
 - 📫 How to reach me **@[FitnessDensuke](https://twitter.com/FitnessDensuke)(twitter)**
 
