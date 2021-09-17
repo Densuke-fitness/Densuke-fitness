@@ -2,13 +2,13 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m a senior in college at **Yokohama City University** (RAKSUL 22 new graduates)
+- 🔭 I’m a senior in college at **Yokohama City University** (RAKSUL 22)
 
-- 🌱 I’m currently learning **OOP, Ruby(rails) .etc**
+- 🌱 I’m currently learning **OOP, Rails .etc**
 
 - 📝 I regularly write articles on [https://densuke-fitness.github.io/Articles.html](https://densuke-fitness.github.io/Articles.html)
 
-- 📫 How to reach me **@[FitnessDensuke](https://twitter.com/FitnessDensuke)(twitter)**
+- 📫 How to reach me **@[FitnessDensuke](https://twitter.com/FitnessDensuke)(Twitter)**
 
 - 📄 Know about my experiences [https://densuke-fitness.github.io/](https://densuke-fitness.github.io/)
 
