@@ -2,7 +2,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m a senior in college at **Yokohama City University** (RAKSUL 22)
+- 🔭 I’m a senior in college at **Yokohama City University** (RAKSUL/Novasell 22)
 
 - 🌱 I’m currently learning **OOP, Rails .etc**
 
