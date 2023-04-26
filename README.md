@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋 I'm Tamtam, a server-side engineer💪</h3>
+<h1 align="left">Hi there👋 I'm Tamtam💪</h3>
 
 <h3 align="left">About me</h3>
 
