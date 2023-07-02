@@ -4,7 +4,7 @@
 
 - 🔭 I’m working at RAKSUL.
 
-- 🌱 I’m currently learning **FastAPI .etc**
+- 🌱 I’m currently into **FastAPI .etc**
 
 - 📝 I regularly take stages and write articles ([https://tamtam-fitness.github.io/Materials.html](https://tamtam-fitness.github.io/Materials.html))
 
