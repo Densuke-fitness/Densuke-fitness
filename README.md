@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **FastAPI .etc**
 
-- 📝 I regularly write articles on [https://tamtam-fitness.github.io/Articles.html](https://tamtam-fitness.github.io/Articles.html)
+- 📝 I regularlytake stages and write articles ([https://tamtam-fitness.github.io/Articles.html](https://tamtam-fitness.github.io/Articles.html))
 
 - 📫 How to reach me **@[TamtamFitness](https://twitter.com/TamtamFitness)(Twitter)**
 
