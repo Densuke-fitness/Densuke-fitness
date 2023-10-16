@@ -2,7 +2,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m working at RAKSUL.
+- 🔭 I’m working at RAKSUL and AIIT subject student.
 
 - 🌱 I’m currently into Japanese translation of **FastAPI .etc**
 
