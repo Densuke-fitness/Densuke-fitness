@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently into Japanese translation of **FastAPI .etc**
 
-- 📝 I regularly [take stages and write articles](https://tamtam-fitness.github.io/Materials.html)
+- 📝 I regularly [take stages and write articles](https://tamtam-fitness.github.io)
 
 - 📫 How to reach me **@[TamtamFitness](https://twitter.com/TamtamFitness)(Twitter)**
 
