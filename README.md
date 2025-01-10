@@ -4,8 +4,6 @@
 
 - 🔭 I’m working at RAKSUL and AIIT student.
 
-- 🌱 I’m currently into Japanese translation of **FastAPI .etc**
-
 - 📝 I regularly [take stages and write articles](https://tamtam-blog-collection.vercel.app/)
 
 - 📫 How to reach me **@[TamtamFitness](https://twitter.com/TamtamFitness)(Twitter)**
