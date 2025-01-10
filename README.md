@@ -2,9 +2,9 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m working at [RAKSUL](https://corp.raksul.com/en/) and also a student at [AIIT](https://aiit.ac.jp/).   
+- 🔭 I’m working at [RAKSUL](https://corp.raksul.com/en/) and also a student at [AIIT](https://aiit.ac.jp/)
 
-- 🌏 I’m the organizer of an event called [JapanglishTechTalk](https://japanglish.connpass.com/).
+- 🌏 I’m the organizer of an event called [JapanglishTechTalk](https://japanglish.connpass.com/)
 
 - 📝 I regularly [take stages and write articles](https://tamtam-blog-collection.vercel.app/)
 
